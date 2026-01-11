@@ -4,18 +4,25 @@
 <p align="center"> <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=normal&logo=facebook&logoColor=white" style="vertical-align:center" /></a> <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white" style="vertical-align:center" /></a> <a href="#}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
 # Description
-<h2 align="center">Hi, I'm Maisha 👋</h2>
-
+<h2 align="center">Hi, I'm Maisha </h2>
 <p align="center">
   I am a Computer Science student at the University of Rajshahi with a strong interest in 
   <b>Machine Learning</b> and <b>Data Science</b>. I enjoy building practical, data-driven projects 
   and continuously improving my skills through hands-on development and research-oriented learning.
 </p>
 
-
-
 # Features
-#
+<h2 align="center">Features</h2>
+
+<ul>
+  <li>Strong foundational knowledge of Machine Learning and Data Science</li>
+  <li>Hands-on experience with Python-based ML frameworks including TensorFlow, PyTorch, and scikit-learn</li>
+  <li>Full-stack web development experience using React, Node.js, and Laravel</li>
+  <li>Database design and management using SQL-based systems</li>
+  <li>Data analysis and visualization with NumPy, Pandas, and Plotly</li>
+  <li>Proficient in version control and collaborative development using GitHub</li>
+</ul>
+
 # Screenshots
  <img src="#"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
