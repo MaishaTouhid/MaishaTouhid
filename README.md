@@ -15,7 +15,6 @@
 <ul>
   <li>Strong foundational knowledge of Machine Learning and Data Science</li>
   <li>Hands-on experience with Python-based ML frameworks including TensorFlow, PyTorch, and scikit-learn</li>
-  <li>Full-stack web development experience using React, Node.js, and Laravel</li>
   <li>Database design and management using SQL-based systems</li>
   <li>Data analysis and visualization with NumPy, Pandas, and Plotly</li>
   <li>Proficient in version control and collaborative development using GitHub</li>
